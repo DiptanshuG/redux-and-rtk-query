@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "title": "ds",
+      "body": "dsfsdf",
+      "userId": 0,
+      "id": "LWbWaKr"
+    },
+    {
+      "title": "dsdsfdsf",
+      "body": "dsfsdfsdfdsf",
+      "userId": 0,
+      "id": "LmoQ7ch"
+    },
+    {
+      "title": "dsdsfdsf",
+      "body": "dsfsdfsdfdsf",
+      "userId": 0,
+      "id": "GOzEHSR"
+    },
+    {
+      "title": "dsdsfdsf",
+      "body": "dsfsdfsdfdsf",
+      "userId": 0,
+      "id": "WU_qngT"
+    },
+    {
+      "title": "dsdsfdsf",
+      "body": "dsfsdfsdfdsf",
+      "userId": 0,
+      "id": "NPJqnoF"
+    },
+    {
+      "title": "dsdsfdsf",
+      "body": "dsfsdfsdfdsf",
+      "userId": 0,
+      "id": "01oaDBW"
+    },
+    {
+      "title": "diptanshu",
+      "body": "",
+      "userId": 0,
+      "id": "pNRPwEl"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
